@@ -50,7 +50,7 @@
             {
                "type": "git",
                "url": "https://github.com/akiraux/akira",
-	       "tag": "v0.0.1-alpha"
+	       "tag": "v0.0.12"
             }
          ]
       }
